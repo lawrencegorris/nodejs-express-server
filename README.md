@@ -5,6 +5,7 @@ Using NodeJS and Express
 
 ## LATEST UPDATES:
 - Setup project (2021/07/19)
+- Created simple server (2021/07/19)
 
 ## NOTES: 
 Since I'm using Express, I'll need to work on security and authentication.
